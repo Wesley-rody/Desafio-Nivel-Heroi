@@ -1,3 +1,3 @@
-let nome = "Wesley Rodrigues de Lima";
-console.log("Olá pessoal");
+let nome = "Wesley Lima";
+console.log("Olá amigos");
 console.log("atualizado");
